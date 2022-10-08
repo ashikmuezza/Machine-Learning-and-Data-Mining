@@ -1,0 +1,12 @@
+price,airbag,capacity,maintenance,profitable
+low,no,2,low,yes
+low,yes,4,med,no
+low,no,4,low,yes
+low,no,4,high,no
+med,no,4,med,no
+med,yes,4,med,yes
+med,yes,2,high,no
+med,no,5,high,yes
+high,yes,4,med,yes
+high,yes,2,high,no
+high,yes,5,high,yes
